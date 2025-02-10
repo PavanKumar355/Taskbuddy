@@ -18,4 +18,4 @@ Progress Tracker: View the progress of your tasks in the progress tracker.
 
 
 
-<img width="1440" alt="Screenshot 2025-02-05 at 10 31 29 AM" src="C:\Users\C PAVAN KUMAR\OneDrive\Pictures\Screenshots" />
+<img width="1440" alt="Screenshot 2025-02-05 at 10 31 29 AM" src="image.png" />
